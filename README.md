@@ -5,6 +5,15 @@
 
 ## Table of Contents
 
+- Files
+  - Resources Folder
+  
+- Background
+- Instructions
+  - Part 1: Database and Jupyter Notebook Set Up
+  - Part 2: Update the Database
+  - Part 3: Exploratory Analysis
+
 ## Files
 
    * NoSQL_analysis_starter.ipynb

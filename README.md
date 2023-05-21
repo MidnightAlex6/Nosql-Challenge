@@ -7,6 +7,14 @@
 
 ## Files
 
+   * NoSQL_analysis_starter.ipynb
+   * NoSQL_setup_starter.ipynb
+   * README.md
+   * Resources
+         * Banner.jpg
+         * establishments.json
+         * Module 12 Challenge Instructions
+
 ### Before You Begin
 
 1. Create a new repository for this project called `nosql-challenge`. **Do not add this homework to an existing repository**.

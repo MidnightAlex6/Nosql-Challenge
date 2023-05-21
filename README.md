@@ -10,7 +10,9 @@
    * NoSQL_analysis_starter.ipynb
    * NoSQL_setup_starter.ipynb
    * README.md
-### Resources
+   
+### Resources Folder
+
    * Banner.jpg
    * establishments.json
    * Module 12 Challenge Instructions

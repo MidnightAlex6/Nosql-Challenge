@@ -10,10 +10,10 @@
    * NoSQL_analysis_starter.ipynb
    * NoSQL_setup_starter.ipynb
    * README.md
-   * Resources
-         * Banner.jpg
-         * establishments.json
-         * Module 12 Challenge Instructions
+### Resources
+   * Banner.jpg
+   * establishments.json
+   * Module 12 Challenge Instructions
 
 ### Before You Begin
 
